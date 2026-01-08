@@ -7,8 +7,8 @@ The dashboard provides insights into shipments, revenue trends, and product perf
 
 ## 📊 Dashboard Preview
 
-![Awesome Chocolates Dashboard](<img width="1306" height="734" alt="Screenshot 2026-01-08 134543" src="https://github.com/user-attachments/assets/3cfcaa4c-8f37-4014-a667-083cd6638405" />
-)
+<img width="1306" height="734" alt="Screenshot 2026-01-08 134543" src="https://github.com/user-attachments/assets/3cfcaa4c-8f37-4014-a667-083cd6638405" />
+
 
 ---
 
@@ -87,5 +87,6 @@ The objective of this project is to:
 
 ## 📬 Contact
 Jay Vishwakarma
+
 Aspiring Data Analyst & Data Science | Power BI | SQL | Python
 
