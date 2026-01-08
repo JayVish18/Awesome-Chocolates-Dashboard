@@ -7,9 +7,17 @@ The dashboard provides insights into shipments, revenue trends, and product perf
 
 ## 📊 Dashboard Preview
 
-![Awesome Chocolates Dashboard](assets/dashboard.png)
+![Awesome Chocolates Dashboard](<img width="1306" height="734" alt="Screenshot 2026-01-08 134543" src="https://github.com/user-attachments/assets/3cfcaa4c-8f37-4014-a667-083cd6638405" />
+)
 
 ---
+
+
+<img width="1299" height="734" alt="Screenshot 2026-01-08 143253" src="https://github.com/user-attachments/assets/0c6dfd67-2368-40cc-9a8c-e04510d992ca" />
+
+
+---
+
 
 ## 📌 Project Objective
 
@@ -63,27 +71,21 @@ The objective of this project is to:
 ---
 
 ## 🧮 Key DAX Concepts Used
-• Calculated Measures
-• Aggregations (SUM)
-• Time-based analysis (Year, Quarter, Month)
-• Product-wise and Country-wise filtering
 
----
-## 📂 Repository Structure
-Awesome-Chocolates-Dashboard/
-│
-├── assets/
-│   └── dashboard.png
-│
-├── Dataset/
-│   └── chocolates_sales_data.xlsx
-│
-├── Awesome Chocolates Dashboard.pbix
-├── README.md
+- Calculated Measures.
+- Aggregations (SUM).
+- Time-based analysis (Year, Quarter, Month).
+- Product-wise and Country-wise filtering.
 
 ---
 ## 📌 Key Business Insights
-• Australia and Canada show the highest shipment volumes
-• Dark chocolate variants contribute significantly to revenue
-• Sales peaked during mid-2022
-• Product-level insights help optimize inventory and marketing strategies
+
+- Australia and Canada show the highest shipment volumes.
+- Dark chocolate variants contribute significantly to revenue.
+- Sales peaked during mid-2022.
+- Product-level insights help optimize inventory and marketing strategies.
+
+## 📬 Contact
+Jay Vishwakarma
+Aspiring Data Analyst & Data Science | Power BI | SQL | Python
+
